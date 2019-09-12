@@ -1,11 +1,11 @@
-import 'package:first_demo_by_vs/Screens/home_screen.dart';
-import 'package:first_demo_by_vs/Screens/news.dart';
-import 'package:first_demo_by_vs/Screens/profile.dart';
-import 'package:first_demo_by_vs/Screens/second_screen.dart';
-import 'package:first_demo_by_vs/Screens/setting.dart';
-import 'package:first_demo_by_vs/Utils/theme.dart';
+import '../Screens/home_screen.dart';
+import '../Screens/news.dart';
+import '../Screens/profile.dart';
+import '../Screens/second_screen.dart';
+import '../Screens/setting.dart';
+import '../Utils/theme.dart';
 import 'package:flutter/material.dart';
-import 'package:english_words/english_words.dart';
+
 class MyApp2 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
