@@ -1,4 +1,4 @@
-import 'package:first_demo_by_vs/Widgets/listview_items.dart';
+import '../Widgets/listview_items.dart';
 import 'package:flutter/material.dart';
 class  MyDrawer extends StatelessWidget {
   @override

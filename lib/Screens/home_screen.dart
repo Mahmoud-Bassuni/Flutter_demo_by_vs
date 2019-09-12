@@ -2,8 +2,8 @@
 import 'dart:convert';
 import 'dart:math';
 
-import 'package:first_demo_by_vs/Model/photo_model.dart';
-import 'package:first_demo_by_vs/Widgets/menu.dart';
+import '../Model/photo_model.dart';
+import '../Widgets/menu.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 class HomeScreen extends StatefulWidget {
